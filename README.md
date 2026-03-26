@@ -29,7 +29,10 @@ The python simulation demonstrates:
 ## How to Run
 ```bash
 python edge_signal_triage_sim.py
+```
 
-
+## Key Insight
+The system prioritises actionable information over complete data capture.
+By performing triage at the edge, it reduces bandwidth requirements while maintaining delivery of high value signals under degraded network conditions.
 
 
