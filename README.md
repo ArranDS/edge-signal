@@ -35,4 +35,6 @@ python edge_signal_triage_sim.py
 The system prioritises actionable information over complete data capture.
 By performing triage at the edge, it reduces bandwidth requirements while maintaining delivery of high value signals under degraded network conditions.
 
+## Constraints
+The design assumes intermittent connectivity, constrained bandwidth and limited edge compute resources.
 
